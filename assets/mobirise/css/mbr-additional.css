@@ -1829,3 +1829,50 @@ body {
 .cid-rhhi5RvdcC P {
   color: #767676;
 }
+.cid-rhoHokvdcV {
+  padding-top: 0px;
+  padding-bottom: 15px;
+  background-image: url("../../../assets/images/background4.jpg");
+}
+.cid-rhoHokvdcV P {
+  color: #ffffff;
+}
+.cid-rhoHokvdcV H1 {
+  color: #f7ed4a;
+}
+.cid-rhoHolcC8y {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rhoHolcC8y .mbr-section-subtitle {
+  color: #767676;
+  font-weight: 300;
+}
+.cid-rhoHolcC8y .mbr-content-text {
+  color: #0f7699;
+  text-align: center;
+}
+.cid-rhoHolcC8y .card {
+  word-wrap: break-word;
+  flex-shrink: 0;
+  -webkit-flex-shrink: 0;
+}
+.cid-rhoHolcC8y .cards-container {
+  display: flex;
+  -webkit-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-justify-content: center;
+  justify-content: center;
+  word-break: break-word;
+}
+@media (max-width: 767px) {
+  .cid-rhoHolcC8y .card:not(.last-child) {
+    padding-bottom: 1.5rem;
+  }
+}
+.cid-rhoHolcC8y .img-text {
+  color: #787324;
+}
